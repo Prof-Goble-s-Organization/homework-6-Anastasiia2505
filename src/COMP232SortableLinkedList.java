@@ -8,7 +8,7 @@
  * @author William Goble
  * @author Dickinson College
  * 
- */
+ */ 
 public class COMP232SortableLinkedList<E extends Comparable<E>> extends COMP232DoublyLinkedList<E> {
 
 	/**
